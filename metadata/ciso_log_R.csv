@@ -2979,7 +2979,11 @@
 745,"CISO","SCE",2024-10-31 02:07:19.457542,2024-08-23 08:00:00,2024-10-30 07:00:00,2024-08-23 08:00:00,2024-10-30 07:00:00,TRUE,TRUE,1632,14,"refresh",FALSE,FALSE,"Missing values were found; The data refresh failed, please check the log;"
 745,"CISO","SDGE",2024-10-31 02:07:19.461135,2024-10-30 08:00:00,2024-10-30 07:00:00,NA,NA,NA,NA,NA,NA,"refresh",FALSE,FALSE,"No new data is available; The data refresh failed, please check the log;"
 745,"CISO","VEA",2024-10-31 02:07:19.46264,2024-10-30 08:00:00,2024-10-30 07:00:00,NA,NA,NA,NA,NA,NA,"refresh",FALSE,FALSE,"No new data is available; The data refresh failed, please check the log;"
-746,"CISO","PGAE",2024-10-31 13:00:50.580225,2024-08-26 08:00:00,2024-10-31 07:00:00,2024-08-26 08:00:00,2024-10-31 07:00:00,TRUE,TRUE,1584,5,"refresh",FALSE,FALSE,"Missing values were found; The data refresh failed, please check the log; "
-746,"CISO","SCE",2024-10-31 13:00:56.339244,2024-08-23 08:00:00,2024-10-31 07:00:00,2024-08-23 08:00:00,2024-10-31 07:00:00,TRUE,TRUE,1656,14,"refresh",FALSE,FALSE,"Missing values were found; The data refresh failed, please check the log; "
-746,"CISO","SDGE",2024-10-31 13:01:00.994609,2024-10-30 08:00:00,2024-10-31 07:00:00,2024-10-30 08:00:00,2024-10-31 07:00:00,TRUE,TRUE,24,0,"refresh",TRUE,TRUE,""
-746,"CISO","VEA",2024-10-31 13:01:06.096056,2024-10-30 08:00:00,2024-10-31 07:00:00,2024-10-30 08:00:00,2024-10-31 07:00:00,TRUE,TRUE,24,0,"refresh",TRUE,TRUE,""
+746,"CISO","PGAE",2024-10-31 13:00:50.580225,2024-08-26 08:00:00,2024-10-31 07:00:00,2024-08-26 08:00:00,2024-10-31 07:00:00,TRUE,TRUE,1584,5,"refresh",FALSE,FALSE,"Missing values were found; The data refresh failed, please check the log;"
+746,"CISO","SCE",2024-10-31 13:00:56.339244,2024-08-23 08:00:00,2024-10-31 07:00:00,2024-08-23 08:00:00,2024-10-31 07:00:00,TRUE,TRUE,1656,14,"refresh",FALSE,FALSE,"Missing values were found; The data refresh failed, please check the log;"
+746,"CISO","SDGE",2024-10-31 13:01:00.994609,2024-10-30 08:00:00,2024-10-31 07:00:00,2024-10-30 08:00:00,2024-10-31 07:00:00,TRUE,TRUE,24,0,"refresh",TRUE,TRUE,NA
+746,"CISO","VEA",2024-10-31 13:01:06.096056,2024-10-30 08:00:00,2024-10-31 07:00:00,2024-10-30 08:00:00,2024-10-31 07:00:00,TRUE,TRUE,24,0,"refresh",TRUE,TRUE,NA
+747,"CISO","PGAE",2024-11-01 02:12:58.399186,2024-08-26 08:00:00,2024-10-31 07:00:00,2024-08-26 08:00:00,2024-10-31 07:00:00,TRUE,TRUE,1584,5,"refresh",FALSE,FALSE,"Missing values were found; The data refresh failed, please check the log; "
+747,"CISO","SCE",2024-11-01 02:12:59.963095,2024-08-23 08:00:00,2024-10-31 07:00:00,2024-08-23 08:00:00,2024-10-31 07:00:00,TRUE,TRUE,1656,14,"refresh",FALSE,FALSE,"Missing values were found; The data refresh failed, please check the log; "
+747,"CISO","SDGE",2024-11-01 02:12:59.966589,2024-10-31 08:00:00,2024-10-31 07:00:00,NA,NA,NA,NA,NA,NA,"refresh",FALSE,FALSE,"No new data is available; The data refresh failed, please check the log; "
+747,"CISO","VEA",2024-11-01 02:12:59.96815,2024-10-31 08:00:00,2024-10-31 07:00:00,NA,NA,NA,NA,NA,NA,"refresh",FALSE,FALSE,"No new data is available; The data refresh failed, please check the log; "
